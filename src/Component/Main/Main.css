@@ -1,0 +1,29 @@
+.top {
+  margin-top: 30%;
+}
+.cent{
+    text-align: center;
+}
+.tf {
+    font-size: 35px;
+    text-align: center
+}
+.rotate90 {
+    width: 100%;  
+    height: 100%;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.disp{
+    clear: both;
+    display: flex;
+}
+
+.name {
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    font-size: 70px;
+}
